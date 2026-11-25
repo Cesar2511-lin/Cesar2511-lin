@@ -24,10 +24,13 @@ Estudiante avanzado de Ingenieria Informatica (UPI) y desarrollador de software 
 * **Calidad de Codigo**: 100% de cumplimiento en reglas de analisis estatico con **SonarAnalyzer (.NET Clean Code - 0 errores, 0 code smells)**.
 * **Gestion Agil**: Planificacion y ciclo de desarrollo iterativo en **Jira Software (Scrum)** y control de versiones con **Git Flow**.
 
-#### [Nuvensa - Plataforma SaaS de Automatizacion e Integracion Cloud](https://github.com/Cesar2511-lin)
-* **Arquitectura**: Plataforma SaaS Full Stack para gestion centralizada de identidades en Microsoft Entra ID (Azure AD) y Microsoft 365.
-* **Escalabilidad & Rendimiento**: Procesamiento masivo de +7.000 usuarios y +20.000 asignaciones a grupos con Microsoft Graph API y contenedores Docker.
-* **Automatizacion**: Reduccion del 60% en tiempos operativos manuales con flujos estructurados en PowerShell y Python.
+#### [Nuvensa - Plataforma SaaS de Automatización e Integración Cloud M365](https://github.com/Cesar2511-lin)
+* **Arquitectura de Software**: Plataforma SaaS basada en arquitectura asíncrona multihilo en Python con panel de administración web y servicios desacoplados.
+* **Motor Híbrido & Concurrencia**: Orquestador de colas de trabajos concurrentes (`JobQueueController`) acoplado a un proceso persistente de PowerShell 7 (`PersistentPowerShell`) para ejecución continua de scripts sin sobrecarga de inicialización.
+* **Integración Cloud & Graph API**: Automatización integral del ciclo de vida de identidades en Microsoft Entra ID (Azure AD) y Microsoft Teams, con manejo estricto de Throttling (HTTP 429 con cabecera `Retry-After`) y reintentos adaptativos.
+* **Escalabilidad & Rendimiento**: Procesamiento masivo por lotes de +7.000 usuarios y +20.000 asignaciones a equipos en <20 minutos en ambiente de producción con reportes auditables en tiempo real (CSV/XLSX).
+* **Simulación & Transaccionalidad**: Ejecución segura con modo simulación (`-WhatIf`) y capacidad de reversión transaccional completa (`Invoke-Rollback`) para mitigación de incidentes operativos.
+* **Seguridad, RBAC & Auditoría**: Control de acceso por roles (Administrador TI, Asesores), sesiones seguras, bitácora de auditoría inmutable en JSON y generación dinámica de certificados TLS/SSL (`cryptography`).
 
 ---
 
