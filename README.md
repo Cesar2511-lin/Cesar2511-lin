@@ -9,7 +9,7 @@
 
 ### Perfil Profesional / Professional Summary
 
-Estudiante avanzado de Ingenieria Informatica (UPI) y desarrollador de software enfocado en **arquitectura backend, aplicaciones empresariales (.NET / C#, Python) y automatizacion cloud**. Cuento con experiencia practica administrando entornos corporativos (**Microsoft 365, Azure, Entra ID**), disenando software desacoplado bajo patrones de diseno solidos y asegurando estandares de calidad continua (**Clean Code / SonarAnalyzer**).
+**Especialista en Sistemas, Automatización Cloud & Desarrollo (.NET / Python)** — Estudiante avanzado de Ingeniería Informática (UPI) enfocado en **arquitectura backend, aplicaciones empresariales (.NET 8 / C#, Python) y automatización cloud**. Cuento con experiencia práctica administrando entornos corporativos (**Microsoft 365, Azure, Entra ID**), diseñando software desacoplado bajo patrones de diseño sólidos y asegurando estándares de calidad continua (**Clean Code / SonarAnalyzer**).
 
 ---
 
